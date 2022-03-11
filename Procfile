@@ -1,0 +1,1 @@
+web: java -jar out/artifacts/Shop_jar/Shop.jar
