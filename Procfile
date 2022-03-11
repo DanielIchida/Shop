@@ -1,1 +1,1 @@
-web: java -jar out/artifacts/Shop_jar/Shop.jar
+web: java -jar build/libs/kotlin-api.jar --server.port=$PORT
