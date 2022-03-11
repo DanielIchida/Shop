@@ -1,1 +1,1 @@
-web: java -jar out/artifacts/Shop_jar/Shop.jar
+web: java -jar build/libs/Shop-0.0.1-SNAPSHOT.jar
